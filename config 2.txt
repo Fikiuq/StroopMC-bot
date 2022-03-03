@@ -1,0 +1,5 @@
+{
+	"ip":"stroopMC.aternos.me",
+	"port": "41162",
+	"name": "StroopMC_bot"
+}
